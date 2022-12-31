@@ -1,0 +1,46 @@
+
+@media (min-width: 300px) {
+
+  #board{
+    background-color: aqua;
+    display: flex;
+    flex-flow: row wrap;
+    align-content: center;
+    justify-content: center;
+    width: 650px;
+    height: 650px;
+  }
+  .hole{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 100px;
+  }
+  /* #sq0{
+    background-image: image("../images/mole.png");
+  } */
+  /* #sq1{
+    background-image: url("../images/mole.png");
+  }
+  #sq2{
+    background-image: url("../images/mole.png");
+  }
+  #sq3{
+    background-image: url("../images/mole.png");
+  }
+  #sq4{
+    background-image: url("../images/mole.png");
+  }
+  #sq5{
+    background-image: url("../images/mole.png");
+  }
+  #sq6{
+    background-image: url("../images/mole.png");
+  }
+  #sq7{
+    background-image: url("../images/mole.png");
+  }
+  #sq8{
+    background-image: url("../images/mole.png");
+  } */
+}
